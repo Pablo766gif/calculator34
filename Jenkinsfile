@@ -31,4 +31,5 @@ pipeline {
 		      reportName: "Checkstyle Report"
 		   ])
 	 }
+     }
 }
