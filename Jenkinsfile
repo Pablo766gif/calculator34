@@ -30,6 +30,5 @@ pipeline {
                       reportFiles: 'main.html',
 		      reportName: "Checkstyle Report"
 		   ])
-	 }
-     }
+	 } 
 }
